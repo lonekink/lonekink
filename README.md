@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lonekink
 
-- 📫 How to reach me mark at lonekink dot net
+- 📫 mark at lonekink dot net
 
 <!---
 lonekink/lonekink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
